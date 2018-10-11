@@ -22,3 +22,7 @@ decode baes64 content first
 $ ./adblockdomain -b64 B64_ENCODED_EASY_LIST.txt
 example.com
 ```
+
+## LICENSE
+
+MIT

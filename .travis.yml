@@ -4,3 +4,8 @@ go:
   - tip
   - '1.11'
   - '1.10'
+
+before_install:
+  - travis_retry go get -u github.com/pmezard/adblock
+
+script: go test -v ./...

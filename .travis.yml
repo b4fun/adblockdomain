@@ -6,6 +6,6 @@ go:
   - '1.10'
 
 before_install:
-  - travis_retry go get -u github.com/pmezard/adblock
+  - travis_retry go get -u github.com/pmezard/adblock/adblock
 
 script: go test -v ./...

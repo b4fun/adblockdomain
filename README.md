@@ -2,6 +2,9 @@
 
 Parse adblock rules domain from adblock rules.
 
+[![Build Status](https://travis-ci.org/b4fun/adblockdomain.svg)](https://travis-ci.org/b4fun/adblockdomain)
+[![](https://godoc.org/github.com/b4fun/adblockdomain?status.svg)](http://godoc.org/github.com/b4fun/adblockdomain)
+
 ## Usage
 
 ```
